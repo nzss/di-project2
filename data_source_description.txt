@@ -1,0 +1,4 @@
+public description of data source
+
+yahoo finance
+reddit technology

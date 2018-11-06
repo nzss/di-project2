@@ -1,3 +1,8 @@
 # ignore config file
 
 config.yml
+
+
+# ignore the ipython checkpoints file
+
+.ipynb_checkpoints/

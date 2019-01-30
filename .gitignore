@@ -6,3 +6,7 @@ config.yml
 # ignore the ipython checkpoints file
 
 .ipynb_checkpoints/
+
+
+# ignore the ds file
+.DS_Store
